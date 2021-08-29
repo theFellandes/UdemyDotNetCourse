@@ -12,5 +12,6 @@ namespace DataAccess.Concrete.EntityFramework.Context
 
         //database ile mapledik
         public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
     }
 }

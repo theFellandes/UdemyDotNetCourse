@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e+EIu5HmAbWXPXtHRaZvjGYPyv6gSdOeNedMsBlxX91pJAc1K3vs/wUDGpr/o+vjb2oOwb7uwXT74wvAT349WA==",
+  "dgSpecHash": "/qH/AFP7+p+i6+YJfkwrY+TBafrNQ6xlUkfvFTMwHPL1voznTEWMSBYk9o5PiDRHzYy+wsZtxfSK7z2kn0FSCw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Fellandes\\RiderProjects\\UdemyCourse\\Business\\Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Fellandes\\.nuget\\packages\\autofac\\6.2.0\\autofac.6.2.0.nupkg.sha512",
     "C:\\Users\\Fellandes\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Fellandes\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.2\\microsoft.data.sqlclient.2.1.2.nupkg.sha512",
     "C:\\Users\\Fellandes\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
