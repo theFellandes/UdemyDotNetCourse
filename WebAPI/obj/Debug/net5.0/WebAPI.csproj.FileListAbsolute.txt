@@ -149,3 +149,6 @@ C:\Users\Fellandes\RiderProjects\UdemyCourse\WebAPI\bin\Debug\net5.0\Business.pd
 C:\Users\Fellandes\RiderProjects\UdemyCourse\WebAPI\bin\Debug\net5.0\Core.pdb
 C:\Users\Fellandes\RiderProjects\UdemyCourse\WebAPI\bin\Debug\net5.0\DataAccess.pdb
 C:\Users\Fellandes\RiderProjects\UdemyCourse\WebAPI\bin\Debug\net5.0\Entities.pdb
+C:\Users\Fellandes\RiderProjects\UdemyCourse\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Fellandes\RiderProjects\UdemyCourse\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Fellandes\RiderProjects\UdemyCourse\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
